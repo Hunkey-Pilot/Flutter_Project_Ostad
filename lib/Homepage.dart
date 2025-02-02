@@ -118,7 +118,7 @@ class Homepage extends State<HomeActivity> {
                           Container(
 
                               decoration: BoxDecoration(
-                                  color: Colors.grey.withOpacity(.3)),
+                                  color: Colors.grey.withOpacity(.1)),
                               child: ListTile(
 
                                 title: Text(_contactList[index]["name"]!,
